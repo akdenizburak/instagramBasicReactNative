@@ -1,8 +1,22 @@
-# Homework 1 
+# Instagram Basic App
 ### This is a simple Instragram Mobile Application clone. It cludes only component, images and text. Non pressable and non redirecting another page.
 
 # Used Library
 * react-native-vector-icons /Octicons/MaterialIcons
+
+## Installation
+
+```
+git clone https://github.com/akdenizburak/instagramBasicReactNative.git
+```
+
+```
+npm install
+```
+
+```
+npx react-native start & npx react-native run-android
+```
 
 ## HomePage
 
